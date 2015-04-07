@@ -42,7 +42,7 @@
 	{
 		font-weight: 600;
 /*		text-transform: uppercase;*/
-		color: #888;
+		color: #444;
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -692,8 +692,8 @@
 	#header
 	{
 		position: relative;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+		border-bottom: solid 1px #ED786A;
+		box-shadow: inset 0px -4px 0px 0px #fff, inset 0px -5px 0px 0px #ed786a;
 	}
 
 		#header h1
@@ -713,7 +713,7 @@
 		{
 			text-transform: uppercase;
 			font-weight: 400;
-			color: #888;
+			color: #444;
 		}
 
 /*********************************************************************************/
