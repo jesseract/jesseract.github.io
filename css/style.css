@@ -692,15 +692,15 @@
 	#header
 	{
 		position: relative;
-		border-bottom: solid 1px #ED786A;
-		box-shadow: inset 0px -4px 0px 0px #fff, inset 0px -5px 0px 0px #ed786a;
+		border-bottom: solid 1px #EE1D23;
+		box-shadow: inset 0px -4px 0px 0px #fff, inset 0px -5px 0px 0px #EE1D23;
 	}
 
 		#header h1
 		{
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #EE1D23;
 			text-shadow: 0.05em 0.075em 0 rgba(0,0,0,0.1);
 		}
 
@@ -871,3 +871,7 @@
 		border-top: solid 2px #e5e5e5;
 		text-align: center;
 	}
+
+.iron-yard {
+        color: #EE1D23;
+}
