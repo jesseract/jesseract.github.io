@@ -75,13 +75,13 @@
 	
 		a:hover
 		{
-			color: #ed786a;
+			color: #EE1D23;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 		
 		a:hover strong
 		{
-			color: #ed786a;
+			color: #EE1D23;
 		}
 
 	strong, b
@@ -482,7 +482,7 @@
 			-webkit-appearance: none;
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #EE1D23;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
@@ -520,7 +520,7 @@
 			input[type="reset"]:active,
 			.button:active
 			{
-				background: #ed786a;
+				background: #EE1D23;
 			}
 		
 			input[type="button"].alt,
@@ -782,14 +782,14 @@
 					#nav > ul > li.active > a:before,
 					#nav > ul > li:hover > a:before
 					{
-						background: #ED786A;
+						background: #EE1D23;
 						color: #fff;
 					}
 			
 					#nav > ul > li.active > a > span,
 					#nav > ul > li:hover > a > span
 					{
-						color: #ED786A;
+						color: #EE1D23;
 					}
 
 /*********************************************************************************/
